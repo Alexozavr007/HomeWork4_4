@@ -3,11 +3,13 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.9.34728.123
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HomeWork4_4_2", "HomeWork4_4_2\HomeWork4_4_2.csproj", "{CA1B3FB2-02A4-4B1A-9F57-738F3643E3A0}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HomeWork4_4_2", "HomeWork4_4_2\HomeWork4_4_2.csproj", "{CA1B3FB2-02A4-4B1A-9F57-738F3643E3A0}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HomeWork4_4_3", "HomeWork4_4_3\HomeWork4_4_3.csproj", "{EFFF34D7-651F-418D-8413-31033E66956D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HomeWork4_4_3", "HomeWork4_4_3\HomeWork4_4_3.csproj", "{EFFF34D7-651F-418D-8413-31033E66956D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HomeWork4_4_4", "HomeWork4_4_4\HomeWork4_4_4.csproj", "{1321825C-9CC6-49BB-9749-6CAEC03D7534}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HomeWork4_4_4", "HomeWork4_4_4\HomeWork4_4_4.csproj", "{1321825C-9CC6-49BB-9749-6CAEC03D7534}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HomeWork4_4_6", "HomeWork4_4_6\HomeWork4_4_6.csproj", "{DE2EDA93-9E08-430E-B53B-63205B69BF3E}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -27,6 +29,10 @@ Global
 		{1321825C-9CC6-49BB-9749-6CAEC03D7534}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1321825C-9CC6-49BB-9749-6CAEC03D7534}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1321825C-9CC6-49BB-9749-6CAEC03D7534}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DE2EDA93-9E08-430E-B53B-63205B69BF3E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DE2EDA93-9E08-430E-B53B-63205B69BF3E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DE2EDA93-9E08-430E-B53B-63205B69BF3E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DE2EDA93-9E08-430E-B53B-63205B69BF3E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
